@@ -120,8 +120,8 @@ function renderHome() {
 
   return `
     <div class="dashboard-hero">
-      <h1>次期中央給電指令所システム</h1>
-      <p>基本設計に必要な技術情報を体系的に整理したリファレンスサイトです。カテゴリごとに構造化された情報を参照できます。</p>
+      <h1>電力システムメモ</h1>
+      <p>電力システムに関連する技術情報を体系的に整理したリファレンスサイトです。カテゴリごとに構造化された情報を参照できます。</p>
     </div>
     <div class="stats-row">
       <div class="stat-card"><div class="stat-value">${categories.length}</div><div class="stat-label">カテゴリ</div></div>
